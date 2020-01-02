@@ -1,0 +1,11 @@
+seaborn
+sklearn
+nistats
+nilearn
+matplotlib
+nose
+cm
+scipy
+nibabel
+patsy
+boto3
