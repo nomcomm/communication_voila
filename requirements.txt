@@ -1,12 +1,10 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
 seaborn
 sklearn
-nistats
 nilearn
 matplotlib
-nose
-cm
-scipy
 nibabel
-patsy
-boto3
-voila
